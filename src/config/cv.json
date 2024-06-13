@@ -1,0 +1,233 @@
+{
+  "basics": {
+    "name": "Jesus Viloria",
+    "label": "Backend Developer",
+    "image": "https://avatars.githubusercontent.com/u/71280658?v=4",
+    "email": "jesudvm12@gmail.com",
+    "phone": "(302) 443-9058",
+    "url": "https://johndoe.com",
+    "summary": "Soy un desarrollador back-end con experiencia en la creación y mantenimiento de aplicaciones robustas y escalables. Mis habilidades incluyen la implementación de APIs RESTful, y la integración de sistemas. Manejo lenguajes de programación como Java y Node.js, y tengo un profundo conocimiento de bases de datos relacionales y no relacionales, como MySQL, PostgreSQL y MongoDB.",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94115",
+      "city": "Barranquilla",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "jesuviloria_",
+        "url": "https://twitter.com/jesuviloria_"
+      },
+      {
+        "network": "Instagram",
+        "username": "jesuviloria_",
+        "url": "https://instagram.com/jesuviloria_"
+      },
+      {
+        "network": "GitHub",
+        "username": "jesuviloria",
+        "url": "https://github.com/jesuviloria"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "isActive": true,
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    }
+  ]
+}
